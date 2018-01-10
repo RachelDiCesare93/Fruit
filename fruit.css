@@ -1,0 +1,47 @@
+
+Body{
+  background-color:#cac4cb;
+  border: 80px double black;
+}
+
+
+h1{
+  font-family: 'Bungee Inline', cursive;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Overpass Mono', monospace;
+  text-align: center;
+}
+
+
+
+
+ #Apple {
+  color:green;
+}
+
+#Banana {
+  color: yellow;
+}
+
+#Grapes {
+  color: purple;
+}
+
+#Peach{
+  color:#ffdab9;
+}
+
+#Blueberry{
+  color: blue;
+}
+
+#Orange{
+  color: #f5791e;
+}
+
+#Strawberry{
+  color: red;
+}
